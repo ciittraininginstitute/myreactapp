@@ -11,6 +11,7 @@ export const Sample=()=>{
         <div style={{"paddingLeft":"20%"}}>
             <h2>Welcome to My First React App</h2>
             <h2>This is Second Time change</h2>
+        <h2>Hi Hello</h2>
             <h2>{count}</h2>
             <button onClick={Increment}>Click</button>
         </div>
