@@ -6,7 +6,7 @@ export const Sample=()=>{
          var cnt=count;
          cnt++;
         setCounter(cnt);
-    }
+    
     return(
         <div style={{"paddingLeft":"20%"}}>
             <h2>Welcome to My First React App</h2>
